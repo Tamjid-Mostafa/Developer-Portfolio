@@ -12,6 +12,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -28,4 +29,9 @@ section{
     font-weight: 800;
     padding: 10px 20px;
     border-radius: 5px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
